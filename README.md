@@ -1,6 +1,7 @@
-# LLM_unlearning
+# LLM_unlearning_DI
+This repo contains the official code implementation for our paper **Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination**
 
-## Install
+## Install environment
 ```bash
 conda create --name unlearning python=3.9.16
 conda activate unlearning
