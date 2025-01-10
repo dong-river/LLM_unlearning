@@ -1,5 +1,7 @@
 # LLM_unlearning_DI
-This repo contains the official code implementation for our paper **Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination**
+This repo contains the official code implementation for our paper **UNDIAL: Self-Distillation with Adjusted Logits for Robust Unlearning in Large Language Models**
+
+(The old version of the paper is called **Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination**)
 
 ## Install environment
 ```bash
